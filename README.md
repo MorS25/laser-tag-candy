@@ -1,4 +1,4 @@
-Laser Tage with Candy
+Laser Tag with Candy
 ==========
 These are the sketches for the various parts. They are:
 - gun: The sketch for the Adafruit trinket which goes inside the gun and drives the IR LED
